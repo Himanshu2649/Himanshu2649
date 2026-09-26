@@ -17,6 +17,7 @@ I contribute where I can to [AOSSIE](https://github.com/AOSSIE-Org) (OpenVerifia
 ## Tools
 
 JavaScript · Python · C · HTML/CSS · Node.js · Git · Linux · Go
+
 ---
 
 [LinkedIn](https://www.linkedin.com/in/himanshu-rai-770a5533b/) · [Email](mailto:hrai03820@gmail.com)
