@@ -1,22 +1,23 @@
-## Hi, I'm Himanshu 
+# Himanshu
 
-CS student IITM(class of 2028)
-focused on systems programming and web development.
-I like building things from scratch to understand how they actually work.
+CS Student, IITM(Class of 2028) · Gwalior, India
 
-**Currently:** building a toy operating system in JavaScript to learn
-kernel fundamentals — scheduling, memory, interrupts.
+Interested in operating systems — especially schedulers, memory management, and what the abstractions we build on actually do underneath.
 
-**Tech:** JavaScript · Python · C · HTML/CSS · Git
+I contribute where I can to [AOSSIE](https://github.com/AOSSIE-Org) (OpenVerifiableLLM) and [MetaBrainz](https://github.com/metabrainz) (troi): Python, recommendation engines, and open LLM tooling.
 
-### Selected work
-- **[Operating-system](https://github.com/Himanshu2649/Operating-system)** — a from-scratch OS
-  exploring process scheduling and memory management
-- **[portfolio](https://github.com/Himanshu2649/portfolio)** — personal site, responsive, no framework
-- **[bubble-shooter](https://github.com/Himanshu2649/bubble-shooter)** — browser game with
-  collision detection and match-3 clustering
+---
 
-### Reach me
-. [LinkedIn](https://www.linkedin.com/in/himanshu-rai-770a5533b/)
-· [Portfolio](https://himanshu2649.github.io/portfolio/) 
-· hrai03820@gmail.com 
+## Projects
+
+- **[Operating-system](https://github.com/Himanshu2649/Operating-system)** — a minimal OS written from scratch in JavaScript: bootloader, scheduling, memory
+- **[bubble-shooter](https://github.com/Himanshu2649/bubble-shooter)** — browser game: collision detection and match-3 clustering
+- **[portfolio](https://github.com/Himanshu2649/portfolio)** — responsive personal site, no frameworks
+
+## Tools
+
+JavaScript · Python · C · HTML/CSS · Node.js · Git · Linux
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/himanshu-rai-770a5533b/) · [Email](mailto:hrai03820@gmail.com)
