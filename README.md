@@ -1,4 +1,4 @@
-## Hi, I'm Himanshu 👋
+## Hi, I'm Himanshu 
 
 CS student focused on systems programming and web development.
 I like building things from scratch to understand how they actually work.
