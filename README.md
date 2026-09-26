@@ -16,4 +16,6 @@ kernel fundamentals — scheduling, memory, interrupts.
   collision detection and match-3 clustering
 
 ### Reach me
-[LinkedIn](https://www.linkedin.com/in/himanshu-rai-770a5533b/) · [Portfolio](https://himanshu2649.github.io/portfolio/) · hrai03820@gmail.com
+. [LinkedIn](https://www.linkedin.com/in/himanshu-rai-770a5533b/)
+· [Portfolio](https://himanshu2649.github.io/portfolio/) 
+· hrai03820@gmail.com 
