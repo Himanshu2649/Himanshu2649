@@ -16,7 +16,7 @@ I contribute where I can to [AOSSIE](https://github.com/AOSSIE-Org) (OpenVerifia
 
 ## Tools
 
-JavaScript · Python · C · HTML/CSS · Node.js · Git · Linux · Go
+JavaScript · Python · C · HTML/CSS · Node.js · Git · Linux · Go · Java
 
 ---
 
