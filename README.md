@@ -1,6 +1,7 @@
 ## Hi, I'm Himanshu 
 
-CS student focused on systems programming and web development.
+CS student IITM(class of 2028)
+focused on systems programming and web development.
 I like building things from scratch to understand how they actually work.
 
 **Currently:** building a toy operating system in JavaScript to learn
