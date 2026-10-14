@@ -4,7 +4,7 @@ CS Student, IITM(Class of 2028) · Gwalior, India
 
 Interested in operating systems — especially schedulers, memory management, and what the abstractions we build on actually do underneath.
 
-I contribute where I can to [SUGARLABS] (https://github.com/sugarlabs)(Musicblocks) and [AOSSIE](https://github.com/AOSSIE-Org) (OpenVerifiableLLM) and [MetaBrainz](https://github.com/metabrainz) (troi): Python, recommendation engines, and open LLM tooling.
+I contribute where I can to [AOSSIE](https://github.com/AOSSIE-Org) (OpenVerifiableLLM) and [MetaBrainz](https://github.com/metabrainz) (troi): Python, recommendation engines, and open LLM tooling.
 
 ---
 
